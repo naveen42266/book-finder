@@ -278,7 +278,7 @@ function Home() {
       } overflow-y-scroll hidden-scrollbar w-full bg-gradient-to-b from-purple-500 to-indigo-500`}
     >
       <div className="mx-auto max-w-[80%] py-4">
-        <h1 className="text-3xl font-bold mb-4">Book Info</h1>
+        <h1 className="text-3xl font-bold mb-4">Book Finder</h1>
         <div className="w-full flex mb-4">
           <input
             type="text"
